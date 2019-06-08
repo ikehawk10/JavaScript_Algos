@@ -5,7 +5,7 @@
 // arr2 = [2, 4, 6]
 // median(arr1, arr2) = 3.5
 
-// Scale to take in an unlimited number of arrays, loop through them, and return the median.
+// TODO: Scale to take in an unlimited number of arrays, loop through them, and return the median.
 
 const arr1 = [17, 5, 10];
 const arr2 = [1, 700, 100];
