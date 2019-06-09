@@ -23,7 +23,6 @@ const findDuplicates = (array) => {
 
   // push the numbers that appear more than once
   for (number in holdingObj) {
-    console.log(number)
     if (holdingObj[number] > 1) {
       finalArray.push(number);
     }
